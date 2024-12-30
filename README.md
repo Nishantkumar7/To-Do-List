@@ -8,7 +8,6 @@ This is a simple To-Do List application built using React, Vite, and Tailwind CS
 - **Edit tasks**: Modify existing tasks.
 - **Toggle task completion**: Mark tasks as completed or not.
 - **Delete tasks**: Remove tasks from the list.
-- **Responsive design**: The app is built with responsiveness in mind, ensuring a smooth experience across all devices.
 
 ## Technologies Used
 
